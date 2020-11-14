@@ -2,6 +2,7 @@
 
 <p align="left">
   <img src="https://media.tenor.com/images/a03e50aa358b7cab991f58b43e1a942a/tenor.gif" width="75px">
+  <img src="https://i.pinimg.com/originals/19/da/42/19da4277bf5a2000cf610b933f1ea50e.gif" width="75px">
 </p>
 
 ### 👦🏻 I'm `Aron` and from `Indonesia` 🇮🇩

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <img src="https://i.pinimg.com/originals/09/7b/0c/097b0c430f994074060bf851cd953761.gif" width="75px">
+  <img src="https://i.pinimg.com/originals/0b/f2/ba/0bf2baebc370e83b26b1e5ef6a558f07.gif" width="75px">
   <img src="https://media.tenor.com/images/a03e50aa358b7cab991f58b43e1a942a/tenor.gif" width="75px">
   <img src="https://i.pinimg.com/originals/19/da/42/19da4277bf5a2000cf610b933f1ea50e.gif" width="75px">
 </p>

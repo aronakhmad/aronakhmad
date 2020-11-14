@@ -31,10 +31,10 @@ Just tryna upgrade my skill to the much better than ever before 📈
 
 
 ### ☕ Get In Touch
-- [![LINE](https://img.shields.io/badge/LINE--181717?style=social&logo=line)](https://line.me/ti/p/dq7Q3Civme)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp--181717?style=social&logo=whatsapp)](https://bit.ly/36wFuiY)
-- [![Telegram](https://img.shields.io/badge/Telegram--181717?style=social&logo=telegram)](https://telegram.me/aronakhmad)
-- [![GitHub Page](https://img.shields.io/badge/GitHub%20Page--181717?style=social&logo=github)](https://aronakhmad.github.io)
+[![LINE](https://img.shields.io/badge/LINE--181717?style=social&logo=line)](https://line.me/ti/p/dq7Q3Civme)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp--181717?style=social&logo=whatsapp)](https://bit.ly/36wFuiY)
+[![Telegram](https://img.shields.io/badge/Telegram--181717?style=social&logo=telegram)](https://telegram.me/aronakhmad)
+[![GitHub Page](https://img.shields.io/badge/GitHub%20Page--181717?style=social&logo=github)](https://aronakhmad.github.io)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aronakhmad.aronakhmad)
 

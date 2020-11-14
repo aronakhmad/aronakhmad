@@ -38,6 +38,8 @@ Just tryna upgrade my skill to the much better than ever before 📈
 [![Telegram](https://img.shields.io/badge/Telegram--181717?style=social&logo=telegram)](https://telegram.me/aronakhmad)
 [![GitHub Page](https://img.shields.io/badge/GitHub%20Page--181717?style=social&logo=github)](https://aronakhmad.github.io)
 
+
+### 👁 Visitor Counts
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aronakhmad.aronakhmad)
 
 #### ✨ From [Aron Akhmad](https://github.com/aronakhmad)✨

@@ -7,7 +7,7 @@
 ### 👦🏻 I'm `Aron` and from `Indonesia` 🇮🇩
 I love everything about `Data Science and Analytics`.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://i.pinimg.com/originals/f8/39/9a/f8399acd37f858c850bbebc2fd5d349e.gif' width='200"'>
 
 ### 👨‍💻 Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)]

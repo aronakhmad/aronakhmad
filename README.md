@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/originals/19/da/42/19da4277bf5a2000cf610b933f1ea50e.gif" width="75px">
 </p>
 
-### 👦🏻 I'm `Aron` and from `Indonesia` 🇮🇩
+### 👦🏻 I'm `Aron` from `Indonesia` 🇮🇩
 I love everything about **`Data Science`** and **`Data Analytics`** 🤎
 
 <img align='right' src='https://i.pinimg.com/originals/f8/39/9a/f8399acd37f858c850bbebc2fd5d349e.gif' width='200"'>

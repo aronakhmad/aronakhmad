@@ -10,7 +10,7 @@ I love everything about `Data Science and Analytics`.
 <img align='right' src='https://i.pinimg.com/originals/f8/39/9a/f8399acd37f858c850bbebc2fd5d349e.gif' width='200"'>
 
 ### 👨‍💻 Languages and Tools
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)]
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)]
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)]
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)]

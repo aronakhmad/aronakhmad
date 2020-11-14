@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <img src="https://media.tenor.com/images/a03e50aa358b7cab991f58b43e1a942a/tenor.gif" width="27px">
+  <img src="https://media.tenor.com/images/a03e50aa358b7cab991f58b43e1a942a/tenor.gif" width="35px">
 </p>
 
 ### 👦🏻 I'm `Aron` and from `Indonesia` 🇮🇩

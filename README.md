@@ -17,11 +17,11 @@ I love everything about **`Data Science`** and **`Data Analytics`** 🤎
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
 
 
 ### 🏆 Github Status
@@ -43,4 +43,4 @@ Just tryna upgrade my skill to the much better than ever before 📈
 ### 👁 Visitor Counts
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aronakhmad.aronakhmad)
 
-#### ✨ From [Aron Akhmad](https://github.com/aronakhmad)✨
+#### From ✨ [Aron Akhmad](https://github.com/aronakhmad) ✨

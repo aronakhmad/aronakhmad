@@ -33,10 +33,11 @@ Just tryna upgrade my skill to the much better than ever before 📈
 
 
 ### ☕ Get In Touch
-[![LINE](https://img.shields.io/badge/LINE--181717?style=social&logo=line)](https://line.me/ti/p/dq7Q3Civme)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp--181717?style=social&logo=whatsapp)](https://bit.ly/36wFuiY)
-[![Telegram](https://img.shields.io/badge/Telegram--181717?style=social&logo=telegram)](https://telegram.me/aronakhmad)
+[![Gmail](http://img.shields.io/badge/Gmail--181717?style=social&logo=gmail)](mailto:aronakhmad@gmail.com)
+[![Twitter](http://img.shields.io/badge/Twitter--181717?style=social&logo=twitter)](https://twitter.com/aronymous97)
+[![Facebook](http://img.shields.io/badge/Facebook--181717?style=social&logo=facebook)](https://www.facebook.com/aron.akhmad.161/)
 [![GitHub Page](https://img.shields.io/badge/GitHub%20Page--181717?style=social&logo=github)](https://aronakhmad.github.io)
+[![Medium](http://img.shields.io/badge/Medium--181717?style=social&logo=medium)](https://aronakhmad.medium.com/)
 
 
 ### 👁 Visitor Counts

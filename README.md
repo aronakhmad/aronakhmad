@@ -33,12 +33,13 @@ Just tryna upgrade my skill to the much better than ever before 📈
 
 
 ### ☕ Get In Touch
+<div class="getintouch">
   <a href="mailto:aronakhmad@gmail.com" target="_blank"><img align='left' src="http://img.shields.io/badge/Gmail--181717?style=social&logo=gmail"/></a>
   <a href="https://twitter.com/aronymous97" target="_blank"><img align='left' src="http://img.shields.io/badge/Twitter--181717?style=social&logo=twitter"/></a>
   <a href="https://www.facebook.com/aron.akhmad.161/" target="_blank"><img align='left' src="http://img.shields.io/badge/Facebook--181717?style=social&logo=facebook"/></a>
   <a href="https://github.com/aronakhmad" target="_blank"><img align='left' src="https://img.shields.io/badge/GitHub%20Page--181717?style=social&logo=github"/></a>
   <a href="https://aronakhmad.medium.com/" target="_blank"><img align='left' src="http://img.shields.io/badge/Medium--181717?style=social&logo=medium"/></a>
-
+</div>
 
 ### 👁 Visitor Counts
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aronakhmad.aronakhmad)

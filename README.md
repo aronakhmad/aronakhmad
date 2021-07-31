@@ -34,7 +34,6 @@ Just tryna upgrade my skill to the much better than ever before 📈
 
 ### ☕ Get In Touch
 [![Gmail](http://img.shields.io/badge/Gmail--181717?style=social&logo=gmail)](mailto:aronakhmad@gmail.com)
-[![Facebook](http://img.shields.io/badge/Facebook--181717?style=social&logo=facebook)](https://www.facebook.com/aron.akhmad.161/)
 [![GitHub Page](https://img.shields.io/badge/GitHub%20Page--181717?style=social&logo=github)](https://aronakhmad.github.io)
 [![Medium](http://img.shields.io/badge/Medium--181717?style=social&logo=medium)](https://aronakhmad.medium.com/)
 
